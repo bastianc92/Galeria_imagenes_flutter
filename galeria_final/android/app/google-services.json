@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284886413296",
+    "project_id": "fluttergalerieproject",
+    "storage_bucket": "fluttergalerieproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284886413296:android:406e3d4c6eceec9d1a7735",
+        "android_client_info": {
+          "package_name": "com.example.galeria_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs3_52zgGt4sA5YMZBgDsQ4xBbZ7JJhRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

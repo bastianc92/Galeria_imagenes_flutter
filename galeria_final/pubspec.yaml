@@ -1,0 +1,41 @@
+name: galeria_final
+description: Aplicación de galería estilo Pinterest
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Selección de imágenes
+  image_picker: ^1.0.7
+
+  # Edición de imágenes (recorte)
+  image_cropper: ^7.1.0
+
+  # Firebase
+  firebase_core: ^2.14.0
+  firebase_storage: ^11.0.7
+
+  # Compartir imágenes
+  share_plus: ^8.0.0
+
+  # Zoom / fullscreen
+  photo_view: ^0.14.0
+
+  # Manejo de archivos
+  path_provider: ^2.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/mis_imagenes/
