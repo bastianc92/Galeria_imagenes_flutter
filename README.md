@@ -19,6 +19,6 @@ Aplicación móvil desarrollada en Flutter que permite visualizar, recortar, com
 2. Abre el proyecto en VS Code o Android Studio.
 3. Ejecuta:
 
-4. 
+ 
 ## Autor
 Sebastián C., estudiante de Análisis y Desarrollo de Software.
